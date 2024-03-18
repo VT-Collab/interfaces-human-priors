@@ -1,7 +1,7 @@
 # Accelerating Interface Adaptation with User-Friendly Priors
 
 This repository houses an open-source implementation of our paper "[Accelerating
-Interface Adaptation with User-Friendly Priors](https://collab.me.vt.edu/pdfs/ben_iros2024.pdf)".
+Interface Adaptation with User-Friendly Priors](https://arxiv.org/abs/2403.07192)".
 
 This repository implements two environments (**Treasure** and **Highway**) and four
 interface optimizers (**Bayes**, **LIMIT**, *Convexity*, *Proportionality*).
